@@ -8,8 +8,6 @@
 
 ## Formato dei dati
 
-- csv
-
 IN LAVORAZIONE
 
 ### Licenza
